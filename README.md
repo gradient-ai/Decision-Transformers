@@ -1,6 +1,6 @@
 # Decision-Transformers
 
-Last updated: Apr 29th 2022
+Last updated: May 02nd 2022
 
 This is the Paperspace version of the [Hugging Face blog](https://huggingface.co/blog/decision-transformers) on decision transformers.
 
